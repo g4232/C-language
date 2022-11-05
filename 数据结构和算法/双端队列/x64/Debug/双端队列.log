@@ -1,0 +1,9 @@
+﻿  main.c
+E:\codeSpace\C++\数据结构和算法\双端队列\main.c(36,19): warning C4047: “函数”:“char *”与“char”的间接级别不同
+E:\codeSpace\C++\数据结构和算法\双端队列\main.c(36,16): warning C4024: “Push”: 形参和实参 2 的类型不同
+E:\codeSpace\C++\数据结构和算法\双端队列\main.c(45,19): warning C4047: “函数”:“char *”与“char”的间接级别不同
+E:\codeSpace\C++\数据结构和算法\双端队列\main.c(45,12): warning C4024: “Pop”: 形参和实参 2 的类型不同
+E:\codeSpace\C++\数据结构和算法\双端队列\main.c(24): warning C4716: “Push”: 必须返回一个值
+E:\codeSpace\C++\数据结构和算法\双端队列\main.c(28): warning C4716: “Pop”: 必须返回一个值
+E:\codeSpace\C++\数据结构和算法\双端队列\main.c(45): warning C4700: 使用了未初始化的局部变量“topElem”
+  双端队列.vcxproj -> E:\codeSpace\C++\数据结构和算法\双端队列\x64\Debug\双端队列.exe
